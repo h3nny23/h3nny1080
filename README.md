@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hi, I'm Your Name Here!</h1>
+<h1>Hi, I'm Oliver Henshaw!</h1>
 
 <h3>AI Engineer • Machine Learning Engineer • Generative AI Developer</h3>
 <p>
@@ -27,7 +27,7 @@ Retrieval-Augmented Generation (RAG), AI Agents, and Cloud Technologies.
 <table>
   <tr>
     <td width="65%">
-    <p>I am an aspiring <strong>[Your Primary Role, e.g., AI Engineer]</strong> with a passion for building intelligent software that solves real-world problems.</p>
+    <p>I am an aspiring <strong>AI Engineer</strong> with a passion for building intelligent software that solves real-world problems.</p>
     <h3>My primary interests include:</h3>
     <ul>
       <li>Artificial Intelligence</li>
@@ -52,6 +52,7 @@ Retrieval-Augmented Generation (RAG), AI Agents, and Cloud Technologies.
 <h2> Lanauges </h2>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/react.js?style=for-the-badge&logo=react.js&logoColor=%2361DBFB"/>
 </p>
 <h2>AI & Machine Learning</h2>
 <p>
