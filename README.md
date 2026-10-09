@@ -51,8 +51,11 @@ Retrieval-Augmented Generation (RAG), AI Agents, and Cloud Technologies.
 <h1> AI Technology Stack</h1>
 <h2> Lanauges </h2>
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/react.js?style=for-the-badge&logo=react.js&logoColor=%2361DBFB"/>
+  <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="react" src="https://img.shields.io/badge/%20-react-555555?style=for-the-badge&labelColor=555555&logo=react">
+  <img alt="css" src="https://img.shields.io/badge/%20-css-0398fc?style=for-the-badge&labelColor=0398FC&logo=css">
+  <img alt="mysql" src="https://img.shields.io/badge/%20-mySQL-FFFFFF?style=for-the-badge&labelColor=FFFFFF&logo=mySQL">
+  <img alt="html" src="https://img.shields.io/badge/%20-HTML-8833dd?style=for-the-badge&labelColor=DFB317&logo=html">
 </p>
 <h2>AI & Machine Learning</h2>
 <p>
@@ -78,7 +81,7 @@ Retrieval-Augmented Generation (RAG), AI Agents, and Cloud Technologies.
 </p>
 <h2>Cloud & Deployment</h2>
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode"/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode,linux,windows"/>
 </p>
 <h1>AI Engineering Skills</h1>
 <div align="center">
